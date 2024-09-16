@@ -1,0 +1,114 @@
+========== HEADER ==========
+.nav__logo
+Burger
+
+.nav__link
+Inicio - Receta - Popular - Delivery - Contacto
+
+
+========== HOME ==========
+.home__title
+Amo Cada <br> Hamburguesa
+
+.home__description
+Servimos las mejores hamburguesas del planeta, 
+allanando el camino para cocinar y preparar 
+hamburguesas calientes y deliciosas.
+
+.button
+Muerde ahora
+
+
+========== RECIPE ==========
+.section__title
+Nuestra receta secreta
+
+.recipe__title .recipe__description
+Pan
+Pan fresco, horneado a la perfección.
+
+Queso
+Cheese for a fantastic and healthy future.
+
+Carne
+100% pura carne de vacuno, grande y carnosa.
+
+
+Verduras
+Verduras llenas de la esencia de la naturaleza y orgánicas.
+
+Salsas
+Salsas frescas, deliciosas para el paladar.
+
+
+========== POPULAR ==========
+.section__title
+Most Devoured  Burgers
+Las elegidas de <br> Burgh's
+
+.popular__title .popular__price
+Chicken <br> Burger
+$6
+
+Meat <br> Burger
+$10
+
+Grill <br> Burger
+$12
+
+Classic <br> Burger
+$8
+
+Big <br> Burger
+$15
+
+
+========== DELIVERY ==========
+.section__title
+Delivery
+
+.delivery__description
+Place your order for your favorite burger 
+and we will deliver it to your door in minutes, 
+get in touch and don't leave hungry.
+
+.button
+Contactanos
+
+
+========== CONTACT ==========
+.section__title
+Contactanos
+
+.contact__title .contact__info
+Escríbenos
+
+.contact__social
+https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
+https://m.me/bedimcode
+https://t.me/telegram
+
+Haz tu pedido
++00-987-7654-321 <br>
++11-012345
+
+Encontranos aca
+Lima - Sun City - Peru <br>
+Av. Moon #4321
+
+
+========== FOOTER ==========
+.footer__logo
+Burger
+
+.footer__link
+Términos y condiciones
+Política de privacidad
+
+.footer__social
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+.footer__copy
+&#169; All Rights Reserved By Bedimcode
