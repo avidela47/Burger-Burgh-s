@@ -716,6 +716,18 @@ img {
 
 /* For medium devices */
 @media screen and (min-width: 540px) {
+
+  body {
+    overflow-x: hidden;
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+  }
+
+
   .home__container,
   .delivery__container {
     grid-template-columns: 360px;
@@ -827,7 +839,7 @@ img {
     bottom: -4rem;
   }
 
-  .home__ingredient{
+  .home__ingredient {
     width: 100px;
   }
 
